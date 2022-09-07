@@ -1,0 +1,6 @@
+#sam{
+    height: 400px;
+    width: 400px;
+    box-shadow: 2px 3px 4px 5px;
+background: linear-gradient( yellow, red,green,blue,violet,grey,black,pink,grey,purple,orange);
+}
